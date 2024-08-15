@@ -8,11 +8,11 @@ A simple Node.js package that checks, if a given string is null or empty.
 
 First, install package using npm:
 
-    npm install @skalwar/null_or_empty --save
+    npm install @Bis10/CI-CD_Test_nodejs --save
 
 Then, require the package and use it like so:
 
-    var isNullOrEmpty = require('@skalwar/null_or_empty');
+    var isNullOrEmpty = require('@Bis10/CI-CD_Test_nodejs');
 
     console.log(isNullOrEmpty("")); // true
     console.log(isNullOrEmpty(null)); // true
