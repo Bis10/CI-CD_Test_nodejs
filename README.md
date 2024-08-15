@@ -6,7 +6,7 @@ A simple Node.js package that checks, if a given string is null or empty.
 
 ## Usage
 
-First, install the package using npm:
+First, install package using npm:
 
     npm install @skalwar/null_or_empty --save
 
