@@ -2,7 +2,7 @@
 
 [![Node CI](https://github.com/Bis10/CI-CD_Test_nodejs/actions/workflows/whatever.yml/badge.svg)](https://github.com/Bis10/CI-CD_Test_nodejs/actions/workflows/whatever.yml)
 
-A simple Node.js package that checks, if a given string is null or empty.
+A simple Node.js package that checks if a given string is null or empty.
 
 ## Usage
 
